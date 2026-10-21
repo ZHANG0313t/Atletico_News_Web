@@ -1,0 +1,19 @@
+# 本机密钥、账号、报告和缓存
+local_config.ini
+mcp_config.ini
+mcp_config.ini.tmp
+.env
+.env.*
+data/
+output/
+__pycache__/
+*.py[cod]
+*.sqlite3*
+*.log
+.venv/
+venv/
+.vscode/
+/tools/video_runtime/
+/generate_resume_pdf.py
+/docs/firewall-result.json
+/docs/*deployment*.json
